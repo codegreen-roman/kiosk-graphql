@@ -1,0 +1,5 @@
+mutation requestIdCardOperation($operationId: String!, $reservationId: ID!, $port: String!, $residentPackages: PackagesRequestInput!, $priceCategory: String, $debug: DebugInput) {
+    requestIDCardRead (operationId: $operationId,reservationId: $reservationId, port: $port, packages: $residentPackages, priceCategory: $priceCategory, debug: $debug) {
+        operationId
+    }
+}

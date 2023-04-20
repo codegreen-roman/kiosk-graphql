@@ -1,0 +1,57 @@
+fragment CarDeck on CarDeck {
+  __typename
+  vehicleTypes {
+    subType
+    types {
+      text
+      type
+      price
+      icon
+    }
+  }
+}
+fragment PassengerDeck on PassengerDeck {
+  __typename
+  types {
+    seqN
+    text
+    price
+    type
+    resident
+    icon
+    virtual
+    attributes {
+      code
+      value
+    }
+  }
+}
+
+query getPrices($forwardSailRefId:Int!, $backwardSailRefId: Int, $port:String) {
+  sailPricing(forwardSailRefId:$forwardSailRefId,backwardSailRefId:$backwardSailRefId, port: $port){
+    tripSummary{
+      route {
+        code
+        title
+        legs {
+          code
+          title
+          parts {
+            code
+            location
+            title
+          }
+        }
+      }
+      routeLegs
+      tripDirection
+      timeOfDepartureTo
+      timeOfDepartureFrom
+    }
+    ticketDecks{
+      __typename
+      ...CarDeck
+      ...PassengerDeck
+    }
+  }
+}

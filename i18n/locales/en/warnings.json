@@ -1,0 +1,6 @@
+{
+  "Warning": "Warning!",
+  "Reservation error": "{{tagStart}}The error occurred during booking process:{{tagEnd}}{{tagStart}}{{boldTagStart}}Reservation Not Found{{boldTagEnd}}{{tagStart}}Solution is to start over reservation process.{{tagEnd}}",
+  "Without driver": "{{tagStart}} Are you sure the vehicle is traveling without a driver? {{tagEnd}}",
+  "Driver From Reserve": "{{tagStart}} The ticket can only be purchased for the driver of a vehicle of a legal person registered in municipality of island. Please add a vehicle to the ticket in advance.{{tagEnd}}"
+}

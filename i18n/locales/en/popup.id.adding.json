@@ -1,0 +1,15 @@
+{
+  "Multiple companies": "We found multiple companies related to your ID-card. Please, pick the one you would like to pay with:",
+  "Busy man": "Multiple companies",
+  "No id in list": "Your ID-card is not in the list of contractual customers",
+  "Low funds": "You have not enough funds on your customer account to cover this purchase",
+  "Another id card": "Please try another ID-card or:",
+  "Close and try or": "Close the window and try again or:",
+  "Complete remove or add id": "Complete operation, remove or add more ID-cards",
+  "No discounts for id": "Your ID-card do not have the right for discount",
+  "Discount already used": "Your ticket already registered on the ship",
+  "Following ids": "Following ID-card(s) added to your booking:",
+  "Insert another id or press done": "Press \"Done\" button below and enter another ID-card",
+  "Try another id or press done": "Press \"Done\" button below and enter another ID-card",
+  "Pay with payment card instead": "{{tagUppercaseStart}} Pay with payment card {{tagEnd}}"
+}

@@ -1,0 +1,16 @@
+{
+  "Choose tickets": "\nVali piletid",
+  "Chosen tickets": "Valitud piletid:",
+  "Empty ticket list": "Piletid pole valitud",
+  "Total ID-codes inserted": "Kokku {{idQty}} ID-koodi sisestatud",
+  "Maximum limit": "Piletite limiit on saavutatud",
+  "Add vehicle": "\nLisa sõiduk",
+  "Add trailer": "\nLisa haagis",
+  "Add bicycle": "\nLisa jalgratas",
+  "Added vehicle": "\nLisatud sõiduk",
+  "Added trailer": "\nLisatud haagis",
+  "Added bicycle": "Lisatud jalgrata pilet(id)",
+  "Edit ID": "\nMuuta ID-de loendit",
+  "Select ID": "Vali ID, mille soovid eemaldada",
+  "Confirm ID deletion": "\nPalun kinnita ID kustutamist {{idNumber}}"
+}

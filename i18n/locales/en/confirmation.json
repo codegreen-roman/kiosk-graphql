@@ -1,0 +1,23 @@
+{
+  "Ticket is printed": "Your ticket number {{reservationId}} is currently being printed...",
+  "Your ticket": "Please check the printer outlet area below the screen",
+  "Your ticket with arrows": "Your ticket appears below",
+  "Boarding": "Boarding information",
+  "Cars onboarding": "Boarding of vehicles starts 25 minutes before departure",
+  "Passengers onboarding": "Boarding of passengers starts 45 minutes before departure",
+  "Ready to board": "Be ready to board 15 minutes before departure",
+  "Not changed ticket": "Ticket purchased from this kiosk cannot be changed or canceled",
+  "Keep ticket": "Keep the ticket until the end of the trip",
+  "Buy ticket at office on board": "It is only possible to buy tickets on-board if there is a capacity left",
+  "During your trip": "During your trip:",
+  "The sea is high": "Be prepared that trip may be cancelled at last moment because of weather conditions",
+  "Weather forecast": "Weather forecast for, Saaremaa on 12 august 2020:",
+  "Services on board": "Services on board of \"{{vesselCode}}\":",
+  "Seats": "Seats inside and outside",
+  "Wifi": "Free Wi-Fi",
+  "Snacks and beverages": "Cold and hot snacks and beverages",
+  "Payment cards": "Card payments accepted",
+  "WC": "WC",
+  "Mobile signal": "NB! Mobile signal may be weak or lost during the trip",
+  "Restrictions": "Restrictions on board:"
+}

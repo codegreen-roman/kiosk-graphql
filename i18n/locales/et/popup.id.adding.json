@@ -1,0 +1,15 @@
+{
+  "Multiple companies": "\nLeidsime mitu selle ID-kaardiga seotud ettevõtet. Vali üks, millega soovid maksta:",
+  "Busy man": "\nMitu ettevõtet",
+  "No id in list": "ID-kaarti ei ole lepinguliste klientide nimekirjas",
+  "Low funds": "Makse teostamiseks vajalikud vahendid puuduvad kliendikontol",
+  "Another id card": "\nProovi mõnda muud ID-kaarti või:",
+  "Close and try or": "Sulge aken ja proovi uuesti või:",
+  "Complete remove or add id": "\nLõpeta toiming, eemalda või lisa veel ID-kaarte",
+  "No discounts for id": "\nNäib, et ID-kaardil pole õigust allahindlustele",
+  "Discount already used": "Juba registreeritud laevale",
+  "Following ids": "Broneeringule lisatud järgmised isikukoodid:",
+  "Insert another id or press done": "Vajuta allpool nuppu \"Valmis\", et lõpetada",
+  "Try another id or press done": "Vajuta allpool nuppu \"Valmis\", et lõpetada:",
+  "Pay with payment card instead": "{{tagUppercaseStart}} Maksa pangakaardiga {{tagEnd}}"
+}

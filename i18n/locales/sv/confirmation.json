@@ -1,0 +1,23 @@
+{
+  "Ticket is printed": "Din biljett nummer {{reservationId}} skrivs ut...",
+  "Your ticket": "Kontrollera att papper finns i skrivaren",
+  "Your ticket with arrows": "Kontrollera att papper finns i skrivaren",
+  "Boarding": "Boarding information",
+  "Cars onboarding": "Boarding av fordon startar 25 minuter före avgång",
+  "Passengers onboarding": "Boarding av passagerare startar 45 minuter före avgång",
+  "Ready to board": "Var redo för ombordstigning 15 minuter före avgång",
+  "Not changed ticket": "Biljetter inköpta här kan inte ombokas eller avbokas",
+  "Keep ticket": "Spara biljetten under hela resan",
+  "Buy ticket at office on board": "Det är endast möjligt att köpa biljetter ombord om de finns lediga platser",
+  "During your trip": "Under din resa:",
+  "The sea is high": "Observera att resan kan ställas in i sista minuten vid svåra väderleksförhållanden",
+  "Weather forecast": "Väderleksprognos för, Saaremaa 12 augusti 2021:",
+  "Services on board": "Tjänster ombord på \"{{vesselCode}}\":",
+  "Seats": "Sittplatser insides och utsides",
+  "Wifi": "Gratis Wifi",
+  "Snacks and beverages": "Kalla och varma tilltugg och drycker",
+  "Payment cards": "Accepterar kortbetalning",
+  "WC": "Toalett",
+  "Mobile signal": "Observera att mobilnätets täckning kan vara svag eller obefinlig under resan",
+  "Restrictions": "Föreskrifter ombord:"
+}

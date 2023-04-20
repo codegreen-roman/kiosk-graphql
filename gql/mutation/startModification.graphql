@@ -1,0 +1,80 @@
+fragment ReservationGuest on ReservationGuest {
+    __typename
+    seqN
+    firstName
+    lastName
+    personalIdentificationNumber
+}
+
+fragment ReservationVehicle on ReservationVehicle {
+    __typename
+    seqN
+    lengthInCm
+    widthInCm
+    heightInCm
+    weightInKg
+    type
+    licencePlate
+    handicapped
+    companyRegistrationNumber
+}
+mutation StartModificationMutation($reservationId: ID!) {
+    startModification(reservationId:$reservationId){
+        reservationId
+        status
+        reservationOwner {
+            firstName
+            lastName
+            email
+            phones {
+                intlCode
+                phoneNumber
+            }
+        }
+        sailPackages {
+            seqN
+            code
+            title
+            sailRefs {
+                sailRefId
+                route
+                routeLeg
+                routeLegTitle
+                vessel
+                vesselTitle
+                departureDate
+                departureTime
+                departureAt
+                port
+                departureFrom
+                items {
+                    quantity
+                    priceCategory
+                    promotion
+                    priceCategorySubType
+                    priceCategoryTranslation
+                    pricePerUnit
+                    price
+                    type
+                    resident
+                    inventoryClass
+                    owners {
+                        ...ReservationGuest
+                        ...ReservationVehicle
+                    }
+                }
+            }
+        }
+        paymentInfo {
+            totalPrice {
+                amount
+                amountFormatted
+                amountWithoutTaxes
+                currency
+                formatPattern
+                tax
+                taxAmount
+            }
+        }
+    }
+}

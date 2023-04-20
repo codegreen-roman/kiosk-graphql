@@ -1,0 +1,11 @@
+{
+  "Follow instructions": "\nJärgi terminali juhiseid",
+  "Waiting in reader": "\nKaardi ootamine terminalis",
+  "Reading": "Lugemine...",
+  "Success": "Loetud edukalt",
+  "Error": "\nLugemisviga",
+  "Went wrong id": "\nKaardilugemise ajal läks midagi valesti. Palun sisestage oma isikukood käsitsi, et saada allahindlust.",
+  "Went wrong": "\nMidagi läks valesti, eemalda kaart terminalist ja sisesta see uuesti",
+  "Thank you": "Aitäh!",
+  "This window will automatically close": "\nSee aken sulgub automaatselt 2 sekundi pärast"
+}

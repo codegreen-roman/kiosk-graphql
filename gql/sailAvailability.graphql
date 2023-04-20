@@ -1,0 +1,17 @@
+query SailAvailability($port: String!, $sailRefId:Int!){
+    sail(port:$port, sailRefId:$sailRefId){
+        sailRefId
+        availableTickets {
+            localPassengers
+            passengers
+            bicycles
+            vehicles
+        }
+        reserveTickets {
+            localPassengers
+            passengers
+            bicycles
+            vehicles
+        }
+    }
+}

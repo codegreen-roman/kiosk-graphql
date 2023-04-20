@@ -1,0 +1,54 @@
+query getSails($port: String!, $date: String!, $route: String!) {
+    sails(port: $port, date: $date, route: $route) {
+        status
+        sailRefId
+        travelTimeInMinutes
+        route {
+            code
+            title
+            legs {
+                code
+                title
+                parts {
+                    code
+                    location
+                    title
+                }
+            }
+        }
+        vessel
+        departure {
+            timestamp
+        }
+        maxTickets {
+            localPassengers
+            passengers
+            bicycles
+            vehicles
+        }
+        availableTickets {
+            localPassengers
+            passengers
+            bicycles
+            vehicles
+            warnings
+        }
+        extraTicketsAvailableTime
+        extraTickets {
+            localPassengers
+            passengers
+            bicycles
+            vehicles
+        }
+        reserveTicketsAvailableTime
+        reserveTickets {
+            localPassengers
+            passengers
+            bicycles
+            vehicles
+        }
+        dangerousGoods
+        restrictedPrices
+        salesClosed
+    }
+}

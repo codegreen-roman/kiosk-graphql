@@ -1,0 +1,16 @@
+{
+  "Choose tickets": "Tickets auswählen",
+  "Chosen tickets": "Ausgewählte Tickets:",
+  "Empty ticket list": "Keine Tickets ausgewählt",
+  "Total ID-codes inserted": "Insgesamt {{idQty}} ID-Karten hinzugefügt",
+  "Maximum limit": "Maximale Anzahl der verfügbaren Tickets ist erreicht",
+  "Add vehicle": "Fahrzeug hinzufügen",
+  "Add trailer": "Anhänger hinzufügen",
+  "Add bicycle": "Fahrrad hinzufügen",
+  "Added vehicle": "Fahrzeug-Ticket",
+  "Added trailer": "Anhänger-Ticket",
+  "Added bicycle": "Fahrrad-Ticket(s)",
+  "Edit ID": "ID-Liste bearbeiten",
+  "Select ID": "Wählen Sie die ID aus, die Sie entfernen möchten, oder legen Sie eine weitere ID-Karte ein, um weitere IDs hinzuzufügen",
+  "Confirm ID deletion": "Bitte bestätigen Sie die Löschung der ID {{idNumber}}"
+}

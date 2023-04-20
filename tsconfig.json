@@ -1,0 +1,74 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "baseUrl": ".",
+    "paths": {
+      "@pages/*": [
+        "pages/*"
+      ],
+      "@pageTemplates/*": [
+        "pageTemplates/*"
+      ],
+      "@pageFiles/*": [
+        "pageFiles/*"
+      ],
+      "@components/*": [
+        "components/*"
+      ],
+      "@styles/*": [
+        "styles/*"
+      ],
+      "@themeSettings": [
+        "themeSettings/index.ts"
+      ],
+      "@const/*": [
+        "const/*"
+      ],
+      "@gql/*": [
+        "gql/*"
+      ],
+      "@interfaces/*": [
+        "interfaces/*"
+      ],
+      "@utils/*": [
+        "utils/*"
+      ],
+      "@test/*": [
+        "test/*"
+      ]
+    },
+    "incremental": true
+  },
+  "files": [
+    "@types/graphql.d.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    ".next",
+    "out",
+    "i18n/makeTranslationFiles.js"
+  ],
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "**/*.js",
+    "**/*.graphql"
+  ]
+}

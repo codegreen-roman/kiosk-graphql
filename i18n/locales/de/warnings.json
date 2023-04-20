@@ -1,0 +1,6 @@
+{
+  "Warning": "Achtung!",
+  "Reservation error": "{{tagStart}} Der Fehler ist während des Buchungsvorgangs aufgetreten: {{tagEnd}}{{tagStart}}{{boldTagStart}} Reservierung nicht gefunden {{boldTagEnd}}{{tagStart}}Den Reservierungsvorgang neu starten{{tagEnd}}",
+  "Without driver": "{{tagStart}} Sind Sie sicher, dass das Fahrzeug ohne Fahrer unterwegs ist? {{tagEnd}}",
+  "Driver From Reserve": "{{tagStart}} Das Ticket kann nur für den Fahrer eines Fahrzeugs einer juristischen Person erworben werden, die in der Gemeinde der Insel registriert ist. Bitte fügen Sie dem Ticket im Voraus ein Fahrzeug hinzu.{{tagEnd}}"
+}

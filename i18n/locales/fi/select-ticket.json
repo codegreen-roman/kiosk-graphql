@@ -1,0 +1,16 @@
+{
+  "Choose tickets": "Valitse liput",
+  "Chosen tickets": "Valitut liput:",
+  "Empty ticket list": "Ei valittuja lippuja",
+  "Total ID-codes inserted": "Yhteensä {{idQty}} henkilökorttia lisätty",
+  "Maximum limit": "Saatavilla olevien lippujen enimmäismäärä on saavutettu",
+  "Add vehicle": "Lisää ajoneuvo",
+  "Add trailer": "Lisää perävaunu",
+  "Add bicycle": "Lisää polkupyörä",
+  "Added vehicle": "Ajoneuvolippu",
+  "Added trailer": "Perävaunulippu",
+  "Added bicycle": "Polkupyörälippu(t)",
+  "Edit ID": "Muokkaa henkilötunnukset ",
+  "Select ID": "Valitse henkilötunnus, jonka haluat poistaa tai syötä vielä yksi henkilökortti, jotta lisätä uusi henkilötunnus",
+  "Confirm ID deletion": "Vahvista henkilötunnuksen poisto {{idNumber}}"
+}

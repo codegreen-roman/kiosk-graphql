@@ -1,0 +1,15 @@
+{
+  "Select sail title": "Vali väljasõidu kuupäev ja kellaaeg",
+  "ETA minutes": "NB! Eeldatav reisi kestus umbes {{minutes}} min",
+  "ETA hours": "NB! Eeldatav reisi kestus umbes {{hours}} t",
+  "ETA hours and minutes": "NB! Eeldatav reisi kestus umbes {{hours}} t {{minutes}} min",
+  "Heavy trucks": "\nRasked veokid on sellel reisil keelatud",
+  "For locals": "( ) - eelmüügiks vaba kohalike reisija kohtade arv",
+  "Sail was cancelled": "Reis on tühistatud",
+  "Dangerous goods": "Selle reisiga toimub ohtlike veoste ülevedu",
+  "Presale": "( ) - eelmüügiks vaba kohalike reisija kohtade arv.",
+  "Sold out": "*Eelmüügi kohad on välja müüdud. Regulaarreisidel müüakse piletid automaatist enne laeva väljumist 50 reisija kohta ja 30 liinimeetrit tekipinda. Kohad lisatakse, kui taimer aegub.",
+  "No more sails": "Tänaseks pole enam reise",
+  "Choose date": "Saadaolev reis leiate kalendris kuupäeva muutes.",
+  "Purchase next sail": "Vajuta siia piletite ostmiseks järgmisele reisile"
+}

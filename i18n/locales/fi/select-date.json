@@ -1,0 +1,15 @@
+{
+  "Select sail title": "Valitse lähtöpäivä ja -aika",
+  "ETA minutes": "HUOM! Matkan arvioitu kesto on {{minutes}} min",
+  "ETA hours": "HUOM! Matkan arvioitu kesto on {{hours}} t",
+  "ETA hours and minutes": "HUOM! Matkan arvioitu kesto on {{hours}} t {{minutes}} min",
+  "Heavy trucks": "Raskaat kuorma-autot ovat kiellettyjä täällä reitillä",
+  "For locals": "( ) - saatavilla lippuja paikallisille matkustajille",
+  "Sail was cancelled": "Tämä reitti peruutettiin",
+  "Dangerous goods": "Täällä reitillä kuljetetaan vaarallisia aineita",
+  "Presale": "() - ennakkomyynnissä olevien paikallisille asukkaille tarkoitettujen lippujen määrä.",
+  "Sold out": "* Ennakkoliput ovat loppuneet. Lippu tavalliselle reitille voi ostaa kioskista ennen lähtöä 30 lineaarimetrillä 50 matkustajalle. Liput lisätään, kun ajastin nollataan.",
+  "No more sails": "Ei ole enää reittejä tänään!",
+  "Choose date": "Löydä saatavilla oleva reitti muuttamalla päivämäärää kalenterissa",
+  "Purchase next sail": "Napsauta tätä ja osta lippuja seuraavalle reittile"
+}

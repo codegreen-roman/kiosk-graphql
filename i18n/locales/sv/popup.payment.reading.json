@@ -1,0 +1,5 @@
+{
+  "Read payment card": "Vänta. Bankkortet läses in",
+  "Read successful payment card": "Bankkortet godkänt. Glöm inte kortet",
+  "Went wrong payment read": "Använd kontaktlös betalning eller sätt in kortet i terminalen och ange PIN-koden på terminalens tangentbord"
+}

@@ -1,0 +1,11 @@
+{
+  "Follow instructions": "Följ instruktionerna i terminalen",
+  "Waiting in reader": "Använd ditt kort i terminalen",
+  "Reading": "Läser...",
+  "Success": "Klar",
+  "Error": "Ett fel har uppstått",
+  "Went wrong id": "Något gick fel under kortläsningen. Ange din ID-kod manuellt för att få rabatt",
+  "Went wrong": "Något gick fel vid kortläsningen. Avsluta och börja om på nytt",
+  "Thank you": "Tack!",
+  "This window will automatically close": "Den här sidan stängs automatiskt om 2 sekunder"
+}

@@ -1,0 +1,5 @@
+{
+  "Read payment card": "Bitte warten Sie, Ihre Bankkarte wird gelesen",
+  "Read successful payment card": "Bankkarte wird erfolgreich gelesen. Bitte entfernen Sie die Karte aus dem Terminal",
+  "Went wrong payment read": "Bezahlen Sie kontaktlos oder stecken Sie die Karte in das Terminal und geben Sie die PIN über die Terminaltastatur ein"
+}

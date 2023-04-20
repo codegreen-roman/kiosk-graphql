@@ -1,0 +1,48 @@
+query getUpcomingSail($port: String!) {
+  upcomingSails(port: $port) {
+    status
+    routeLeg
+    route {
+      code
+      title
+      legs {
+        code
+        title
+        parts {
+          code
+          location
+          title
+        }
+      }
+    }
+    vessel
+    departure {
+      timestamp
+      locationName
+    }
+    arrival {
+      locationName
+    }
+    availableTickets{
+      passengers
+      localPassengers
+      bicycles
+      vehicles
+    }
+    extraTickets {
+      localPassengers
+      passengers
+      bicycles
+      vehicles
+    }
+    extraTicketsAvailableTime
+    reserveTicketsAvailableTime
+    reserveTickets {
+      localPassengers
+      passengers
+      bicycles
+      vehicles
+    }
+    salesClosed
+  }
+}

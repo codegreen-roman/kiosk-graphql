@@ -1,0 +1,7 @@
+const ITEM_TYPE = {
+  PASSENGER: 'PASSENGER',
+  VEHICLE: 'VEHICLE',
+  TRAILER: 'TRAILER',
+  BICYCLE: 'BICYCLE',
+}
+export default ITEM_TYPE

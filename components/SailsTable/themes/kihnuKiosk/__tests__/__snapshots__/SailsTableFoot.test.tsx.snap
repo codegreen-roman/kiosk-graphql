@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SailsTableHead when default props passed matches snapshot 1`] = `
+<SailsTableFootStyles__Root>
+  <SailsTableFootStyles__Message
+    data-test="sold-out"
+    type="warning"
+  >
+    * EELMÜÜGI KOHAD ON VÄLJA MÜÜDUD. 
+
+    REGULAARREISIDEL MÜÜAKSE KIOSKIST ENNE LAEVA VÄLJUMIST {{CASH_DESK_DECK_LIMIT}} REISIJA KOHTA JA {{CASH_DESK_HIGH_METERS_LIMIT}} LIINIMEETRIT TEKIPINDA. KOHAD LISATAKSE, KUI TAIMER AEGUB.
+  </SailsTableFootStyles__Message>
+  <SailsTableFootStyles__Message
+    data-test="local"
+    type="annotation"
+  >
+    Translation
+  </SailsTableFootStyles__Message>
+  <SailsTableFootStyles__Message
+    data-test="danger"
+    type="danger"
+  >
+    <SailsTableFootStyles__IconHolder
+      as={[Function]}
+    />
+    Translation
+  </SailsTableFootStyles__Message>
+  <SailsTableFootStyles__Message
+    data-test="cancel"
+    type="error"
+  >
+    <SailsTableFootStyles__IconHolder
+      as={[Function]}
+    />
+    Translation
+  </SailsTableFootStyles__Message>
+</SailsTableFootStyles__Root>
+`;

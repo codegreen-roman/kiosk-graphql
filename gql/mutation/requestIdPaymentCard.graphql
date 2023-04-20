@@ -1,0 +1,5 @@
+mutation requestIdPaymentOperation($operationId: String!, $reservationId: ID!, $port: String!, $companyId: Int, $personalIdentificationNumber: String, $debug: DebugInput) {
+    requestCreditPayment (operationId: $operationId,reservationId: $reservationId, port: $port, companyId: $companyId, personalIdentificationNumber: $personalIdentificationNumber , debug: $debug) {
+        operationId
+    }
+}

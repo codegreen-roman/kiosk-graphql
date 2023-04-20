@@ -1,0 +1,6 @@
+{
+  "Warning": "Varoitus!",
+  "Reservation error": "{{tagStart}}Varauksen aikana tapahtui virhe:{{tagEnd}}{{tagStart}}{{boldTagStart}}Varausta ei löydy{{boldTagEnd}}{{tagStart}}Ole hyvä ja aloita varaus uudelleen{{tagEnd}}",
+  "Without driver": "{{tagStart}} Oletko varma, että ajoneuvo kulkee ilman kuljettajaa? {{tagEnd}}",
+  "Driver From Reserve": "{{tagStart}} Lipun voi ostaa vain saaren kuntaan rekisteröidyn oikeushenkilön ajoneuvon kuljettajalle. Lisää ajoneuvo lippuun etukäteen.{{tagEnd}}"
+}

@@ -1,0 +1,11 @@
+{
+  "Follow instructions": "Anweisungen des Terminals befolgen",
+  "Waiting in reader": "Der Terminal wartet auf die Karte",
+  "Reading": "Karte wird gelesen...",
+  "Success": "Erfolgreich gelesen",
+  "Error": "Lesefehler",
+  "Went wrong id": "Beim Lesen der Karte ist ein Fehler aufgetreten. Bitte geben Sie Ihren ID-Code manuell ein, um einen Rabatt zu erhalten",
+  "Went wrong": "Beim Lesen der Karte ist etwas schief gelaufen. Schließen Sie das Fenster und beginnen Sie von vorne",
+  "Thank you": "Danke!",
+  "This window will automatically close": "Dieses Fenster schließt automatisch in 2 Sekunden..."
+}

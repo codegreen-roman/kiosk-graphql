@@ -1,0 +1,29 @@
+query getVehicleInfo($route: String!, $sailRefId: Int!, $isRoundTrip: Boolean, $isTrailer: Boolean!, $reservationId: ID, $vehicleData: VehicleDataInput ){
+    calculateVehiclePrice(route: $route, sailRefId: $sailRefId, isRoundTrip: $isRoundTrip, isTrailer: $isTrailer, reservationId: $reservationId, vehicleData: $vehicleData){
+
+            error {
+                errorMessage
+                exceptionClassName
+            }
+            inventoryClass
+            price {
+                coefficients
+                price
+                priceCategory
+                priceCategorySubType
+                priceCategoryTitle
+                priceFormatted
+                residentCompany
+            }
+            vehicleInfo {
+                category
+                heightInMm
+                lengthInMm
+                licensePlate
+                weightInKg
+                widthInMm
+            }
+            vehicleType
+        }
+
+}

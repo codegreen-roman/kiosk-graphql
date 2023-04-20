@@ -1,0 +1,6 @@
+{
+  "Warning": "\nTähelepanu!",
+  "Reservation error": "{{tagStart}}Broneerimisel tekkis viga:{{tagEnd}}{{tagStart}}{{boldTagStart}}Broneeringut ei leitud{{boldTagEnd}}{{tagStart}}Alusta broneerimist uuesti{{tagEnd}}",
+  "Without driver": "{{tagStart}} Kas olete kindel, et sõiduk reisib ilma juhita? {{tagEnd}}",
+  "Driver From Reserve": "{{tagStart}} Pilet on võimalik osta vaid saarel registreeritud juriidilise isiku sõiduki juhile. Palun lisage eelnevalt piletile sõiduk {{tagEnd}}"
+}

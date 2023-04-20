@@ -1,0 +1,39 @@
+fragment PrintResult on PrintResult {
+    __typename
+    content
+}
+
+fragment ReadIDCardResult on ReadIDCardResult {
+    __typename
+    personalIdentificationNumber
+}
+
+fragment GetCreditCompanyMembersResult on GetCreditCompanyMembersResult {
+    __typename
+    creditCompanyMembers {
+        cardNumber
+        personalIdentificationNumber
+        customerId
+        creditCompany {
+            id
+            name
+            registrationNumber
+        }
+    }
+}
+
+subscription subscribePaymentTerminal($port: String!, $operationId: String!){
+    paymentTerminalOperationProgress(port: $port,operationId: $operationId) {
+        reservationId
+        returnCode
+        errorMessageTranslated
+        operationId
+        status
+        result{
+            ...PrintResult
+            ...ReadIDCardResult
+            ...GetCreditCompanyMembersResult
+        }
+        priceCategory
+    }
+}

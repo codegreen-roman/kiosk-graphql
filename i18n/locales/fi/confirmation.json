@@ -1,0 +1,23 @@
+{
+  "Ticket is printed": "Tulostetaan lippusi numero {{reservationId}}...",
+  "Your ticket": "Tarkista tulostimen luovutustaso näytön alta",
+  "Your ticket with arrows": "Lippusi tulostuu alhaalta",
+  "Boarding": "Informaatio laivaannoususta",
+  "Cars onboarding": "Ajoneuvojen laivaannousu alkaa 25 minuuttia ennen lähtöä",
+  "Passengers onboarding": "Matkustajien laivaannousu alkaa 45 minuuttia ennen lähtöä",
+  "Ready to board": "Ole valmis nousemaan laivaan 15 minuuttia ennen lähtöä",
+  "Not changed ticket": "Tästä lippuautomaatista ostettuja lippuja ei voi vaihtaa tai peruuttaa",
+  "Keep ticket": "Säilytä lippusi matkan loppuun saakka",
+  "Buy ticket at office on board": "Lippujen osto laivalta on mahdollista vain jos paikkoja on jäljellä",
+  "During your trip": "Matkasi aikana",
+  "The sea is high": "Varautu mahdolliseen matkan peruutukseen viime hetkellä sääolosuhteiden vuoksi",
+  "Weather forecast": "Sääennuste Saarenmaalle 12. elokuuta 2020:",
+  "Services on board": "Palvelut \"{{vesselCode}}\"-aluksella:",
+  "Seats": "Istuimapaikat sisä- ja ulkopuolella",
+  "Wifi": "Ilmainen Wi-Fi",
+  "Snacks and beverages": "Kylmät ja kuumat välipalat ja juomat",
+  "Payment cards": "Korttimaksut hyväksytään",
+  "WC": "WC",
+  "Mobile signal": "HUOM! Mobiiliverkon signaali voi olla heikko tai katoaa matkan aikana",
+  "Restrictions": "Rajoitukset laivalla:"
+}

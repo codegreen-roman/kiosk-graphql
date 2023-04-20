@@ -1,0 +1,21 @@
+{
+  "presets": [
+    "next/babel"
+  ],
+  "plugins": [
+    "styled-jsx/babel",
+    "jsx-display-if",
+    "graphql-tag",
+    [
+      "styled-components",
+      {
+        "displayName": true,
+        "fileName": true,
+        "minify": false,
+        "pure": true,
+        "ssr": true,
+        "preprocess": false
+      }
+    ]
+  ]
+}

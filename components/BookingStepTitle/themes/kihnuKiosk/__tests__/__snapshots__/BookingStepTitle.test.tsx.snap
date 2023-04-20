@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BookingStepTitle should match snapshot 1`] = `
+<BookingStepTitleStyles__Root
+  totalAmount={0}
+>
+  <BookingStepTitleStyles__Container
+    disableGutters={false}
+    maxWidth="xl"
+  >
+    <BookingStepTitleStyles__LeftSide>
+      Title
+    </BookingStepTitleStyles__LeftSide>
+    <BookingStepTitleStyles__RightSide>
+      <BookingStepTitleStyles__TotalAmountLabel>
+        Total price label
+      </BookingStepTitleStyles__TotalAmountLabel>
+      <BookingStepTitleStyles__TotalAmount>
+        0.00 €
+      </BookingStepTitleStyles__TotalAmount>
+    </BookingStepTitleStyles__RightSide>
+  </BookingStepTitleStyles__Container>
+</BookingStepTitleStyles__Root>
+`;

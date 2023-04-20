@@ -1,0 +1,16 @@
+{
+  "Choose tickets": "Välj biljett:",
+  "Chosen tickets": "Valda biljetter:",
+  "Empty ticket list": "Inga biljetter är valda",
+  "Total ID-codes inserted": "Antal kopplade {{idQty}} ID-cards",
+  "Maximum limit": "Gränsen för tillgängliga biljetter här nåtts",
+  "Add vehicle": "Lägg till fordon",
+  "Add trailer": "Lägg till bilsläp",
+  "Add bicycle": "Lägg till cykel",
+  "Added vehicle": "Fordonsbiljett",
+  "Added trailer": "Bilsläpsbiljett",
+  "Added bicycle": "Cykelbiljett(er)",
+  "Edit ID": "Redigera ID-s listan",
+  "Select ID": "Välj det ID du vill ta bort eller, lägg till ett annat ID-card för att lägga till IDs",
+  "Confirm ID deletion": "Bekräfta radering av ID {{idNumber}}"
+}

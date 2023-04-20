@@ -1,0 +1,46 @@
+mutation StartReservation($input: PackagesInput) {
+  startReservation(packages: $input) {
+    reservationId
+    status
+    paymentInfo {
+      totalPrice {
+        amount
+        amountFormatted
+        amountWithoutTaxes
+        currency
+        formatPattern
+        tax
+        taxAmount
+      }
+    }
+    sailPackages {
+      seqN
+      code
+      title
+      sailRefs {
+        sailRefId
+        route
+        routeLeg
+        routeLegTitle
+        vessel
+        vesselTitle
+        departureDate
+        departureTime
+        departureAt
+        port
+        departureFrom
+        items {
+          quantity
+          priceCategory
+          priceCategorySubType
+          priceCategoryTranslation
+          pricePerUnit
+          price
+          type
+          resident
+          inventoryClass
+        }
+      }
+    }
+  }
+}

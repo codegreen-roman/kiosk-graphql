@@ -1,0 +1,5 @@
+{
+  "lowAvailableTicketsLevel": 0.5,
+  "lowReservesTicketsLevel": 0.5,
+  "extraTicketsTimerMaxHours": 48
+}

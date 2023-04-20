@@ -1,0 +1,5 @@
+mutation cancelIdCardOperation($operationId: ID!, $port: String!) {
+    cancelOperation (operationId: $operationId, port: $port) {
+        operationId
+    }
+}

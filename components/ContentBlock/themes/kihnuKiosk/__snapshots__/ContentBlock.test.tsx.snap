@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ContentBlock renders correctly 1`] = `
+<DocumentFragment>
+  .c0 {
+  background: #EDF2FF;
+  border-color: #4266BD;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 2px;
+  padding: 11px 17px;
+}
+
+<div
+    class="c0 test"
+    disabled=""
+  >
+    123
+  </div>
+</DocumentFragment>
+`;

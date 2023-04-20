@@ -1,0 +1,16 @@
+{
+  "Choose tickets": "Select tickets",
+  "Chosen tickets": "Selected tickets:",
+  "Empty ticket list": "No tickets selected",
+  "Total ID-codes inserted": "Totally {{idQty}} ID-cards added",
+  "Maximum limit": "Maximum limit of available tickets is reached",
+  "Add vehicle": "Add vehicle",
+  "Add trailer": "Add trailer",
+  "Add bicycle": "Add bicycle",
+  "Added vehicle": "Vehicle ticket",
+  "Added trailer": "Trailer ticket",
+  "Added bicycle": "Bicycle ticket(s)",
+  "Edit ID": "Edit ID-s list",
+  "Select ID": "Select the ID you want to remove, or insert another ID-card to add more IDs",
+  "Confirm ID deletion": "Please, confirm deletion of ID {{idNumber}}"
+}

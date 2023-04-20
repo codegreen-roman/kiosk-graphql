@@ -1,0 +1,30 @@
+query SailAvailability($port: String!, $sailRefId:Int!, $backwardSailRefId:Int!){
+    sail(port:$port, sailRefId:$sailRefId){
+        sailRefId
+        availableTickets {
+            passengers
+            bicycles
+            vehicles
+        }
+        reserveTickets {
+            localPassengers
+            passengers
+            bicycles
+            vehicles
+        }
+    }
+    backSail: sail(port:$port, sailRefId:$backwardSailRefId){
+        sailRefId
+        availableTickets {
+            passengers
+            bicycles
+            vehicles
+        }
+        reserveTickets {
+            localPassengers
+            passengers
+            bicycles
+            vehicles
+        }
+    }
+}

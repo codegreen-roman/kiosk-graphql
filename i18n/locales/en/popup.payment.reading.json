@@ -1,0 +1,5 @@
+{
+  "Read payment card": "Please, wait while reading your bank card",
+  "Read successful payment card": "Bank card is successfully read. Please remove it from terminal",
+  "Went wrong payment read": "Use contactless payment or insert the card into the terminal and enter the PIN to the terminal keyboard"
+}

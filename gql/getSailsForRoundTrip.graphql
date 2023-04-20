@@ -1,0 +1,57 @@
+query getSailsForRoundTrip($port1: String!, $date1: String!, $port2: String!, $date2: String!) {
+    firstSails: sails(port: $port1, date: $date1) {
+        status
+        sailRefId
+        departure {
+            timestamp
+        }
+        maxTickets {
+            localPassengers
+            passengers
+            bicycles
+            vehicles
+        }
+
+        availableTickets {
+            localPassengers
+            passengers
+            bicycles
+            vehicles
+        }
+        extraTicketsAvailableTime
+        extraTickets {
+            localPassengers
+            passengers
+            bicycles
+            vehicles
+        }
+        dangerousGoods
+    }
+    secondSails: sails(port: $port2, date: $date2) {
+        status
+        sailRefId
+        departure {
+            timestamp
+        }
+        maxTickets {
+            localPassengers
+            passengers
+            bicycles
+            vehicles
+        }
+        availableTickets {
+            localPassengers
+            passengers
+            bicycles
+            vehicles
+        }
+        extraTicketsAvailableTime
+        extraTickets {
+            localPassengers
+            passengers
+            bicycles
+            vehicles
+        }
+        dangerousGoods
+    }
+}

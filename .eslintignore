@@ -1,0 +1,4 @@
+**/node_modules/*
+**/out/*
+**/.next/*
+i18n/makeTranslationFiles.js

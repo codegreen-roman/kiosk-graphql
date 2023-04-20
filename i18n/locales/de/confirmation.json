@@ -1,0 +1,23 @@
+{
+  "Ticket is printed": "Ihr Ticket Nr. {{reservationId}} wird gerade gedruckt...",
+  "Your ticket": "Bitte prüfen Sie den Druckerausgangsbereich unterhalb des Bildschirms",
+  "Your ticket with arrows": "Ihr Ticket erscheint unten",
+  "Boarding": "Informationen zum Einsteigen",
+  "Cars onboarding": "Das Boarding von Fahrzeugen beginnt 25 Minuten vor der Abfahrt",
+  "Passengers onboarding": "Das Boarding der Passagiere beginnt 45 Minuten vor der Abfahrt",
+  "Ready to board": "Seien Sie bereit, 15 Minuten vor der Abreise an Bord zu gehen",
+  "Not changed ticket": "An diesem Kiosk gekaufte Tickets können nicht geändert oder storniert werden",
+  "Keep ticket": "Bewahren Sie das Ticket bis zum Ende der Fahrt auf",
+  "Buy ticket at office on board": "Sie können die Tickets an Bord kaufen, sofern noch Plätze frei sind",
+  "During your trip": "Während der Fahrt:",
+  "The sea is high": "Berücksichtigen Sie bitte, dass die Fahrt im letzten Moment aufgrund der Wetterbedingungen abgesagt werden kann",
+  "Weather forecast": "Wettervorhersage für Saaremaa am 12. August 2020:",
+  "Services on board": "Serviceleistungen auf dem Schiff \"{{vesselCode}}\":",
+  "Seats": "Sitzplätze innen und außen",
+  "Wifi": "Kostenloses WLAN",
+  "Snacks and beverages": "Kalte und warme Snacks und Getränke",
+  "Payment cards": "Kartenzahlungen willkommen",
+  "WC": "WC",
+  "Mobile signal": "ACHTUNG! Das Mobilfunksignal kann während der Fahrt schwach sein oder verloren gehen",
+  "Restrictions": "Beschränkungen an Bord:"
+}

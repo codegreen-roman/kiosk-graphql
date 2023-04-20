@@ -1,0 +1,6 @@
+mutation CancelReservation($reservationId: ID!) {
+    cancelReservation(reservationId:$reservationId){
+        reservationId
+        status
+    }
+}

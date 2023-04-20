@@ -1,0 +1,5 @@
+{
+  "Read payment card": "Palun oota kuni pangakaart loetakse",
+  "Read successful payment card": "Pangakaart on edukalt loetud, eemalda see terminalist",
+  "Went wrong payment read": "Palun kasutage viipemakse võimalust või kontrollige, et maksekaart on sisestatud korrektselt terminali ja PIN kood sisestatud makseterminali klaviatuurilt"
+}

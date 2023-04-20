@@ -1,0 +1,23 @@
+{
+  "Ticket is printed": "Trükitakse pilet number {{reservationId}}...",
+  "Your ticket": "Pilet trükitakse. Kontrolli printeri väljalaskeala ekraani all",
+  "Your ticket with arrows": "Pilet trükitakse. Kontrolli printeri väljalaskeala ekraani all",
+  "Boarding": "Pardale mineku teave",
+  "Cars onboarding": "Sõidukite pealesõit laevale algab 25 minutit enne väljumist",
+  "Passengers onboarding": "\nReisijate pardaleminek algab 45 enne väljumist",
+  "Ready to board": "Ole valmis laevale minekuks 15 minutit enne väljumist",
+  "Not changed ticket": "Piletiautomaadist ostetud piletit ei saa muuta ega tühistada",
+  "Keep ticket": "Hoia pilet alles kuni reisi lõpuni",
+  "Buy ticket at office on board": "Laevas asuvas piletikassas on võimalik osta pileteid vaid järgmisena väljuvale reisile vabade kohtade olemasolul",
+  "During your trip": "\nReisi ajal (kestab umbes 1 tund ja 15 minutit):",
+  "The sea is high": "\nOle valmis, et reis võib ilmastikutingimuste tõttu viimasel hetkel ära jääda",
+  "Weather forecast": "\nSaaremaa ilmaennustus 12. augustiks 2020:",
+  "Services on board": "\nTeenused pardal \"{{vesselCode}}\":",
+  "Seats": "\nIstmed sees ja väljas",
+  "Wifi": "Tasuta Wi-Fi",
+  "Snacks and beverages": "\nKülmad ja kuumad suupisted ning joogid",
+  "Payment cards": "Kaardiga maksmine võimalik",
+  "WC": "WC",
+  "Mobile signal": "NB! \nMobiilsignaal võib reisi ajal olla nõrk või kadunud",
+  "Restrictions": "\nPiirangud pardal:"
+}

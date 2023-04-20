@@ -1,0 +1,15 @@
+{
+  "Multiple companies": "Löysimme useita yrityksiä, jotka liittyvät henkilökorttiisi. Valitse se, jonka kautta haluat maksaa:",
+  "Busy man": "Useita yrityksiä",
+  "No id in list": "Henkilökorttisi ei ole sopimusasiakkaiden luettelossa",
+  "Low funds": "Asiakastililläsi ei ole tarpeeksi varoja tämän ostoksen kattamiseen",
+  "Another id card": "Kokeile toista henkilökorttia tai:",
+  "Close and try or": "Sulje ikkuna ja kokeile uudestaan tai:",
+  "Complete remove or add id": "Suorita toimenpide loppuun, poista henkilökortti tai lisää muut henkilökortit",
+  "No discounts for id": "Henkilökortillasi ei ole oikeutta alennukseen",
+  "Discount already used": "Lippusi on jo rekisteröity laivalle",
+  "Following ids": "Seuraava(t) henkilökortti(t)  lisättiin varaukseesi:",
+  "Insert another id or press done": "Paina alla olevaa \"Valmis\"-nappia ja kokeile toista henkilökorttia",
+  "Try another id or press done": "Paina alla olevaa \"Valmis\"-nappia ja syötä toinen henkilökortti",
+  "Pay with payment card instead": "{{tagUppercaseStart}} Maksa maksukortilla {{tagEnd}}"
+}

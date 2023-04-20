@@ -1,0 +1,11 @@
+{
+  "Follow instructions": "Seuraa automaatin antamia ohjeita",
+  "Waiting in reader": "Odotetaan korttia",
+  "Reading": "Luetaan ...",
+  "Success": "Lukeminen onnistui",
+  "Error": "Lukeminen epäonnistui",
+  "Went wrong id": "Jotain meni pieleen kortin lukemisen aikana. Syötä ID-koodisi manuaalisesti saadaksesi alennuksen",
+  "Went wrong": "Jotain on mennyt väärin kortin lukemisen aikana. Sulje ikkuna ja aloita uudestaan",
+  "Thank you": "Kiitos!",
+  "This window will automatically close": "Tämä ikkuna sulkeutuu automaattisesti 2 sekunnin kuluttua"
+}

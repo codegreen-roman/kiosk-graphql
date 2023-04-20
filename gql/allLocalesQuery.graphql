@@ -1,0 +1,7 @@
+query allLocales {
+  supportedLocales {
+    name
+    shortName
+    preferred
+  }
+}

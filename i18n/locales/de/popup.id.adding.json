@@ -1,0 +1,15 @@
+{
+  "Multiple companies": "Wir haben mehrere Unternehmen gefunden, die mit Ihrer ID-Karte in Verbindung stehen. Bitte wählen Sie die Firma aus, mit der Sie bezahlen möchten:",
+  "Busy man": "mehrere Unternehmen",
+  "No id in list": "Ihre ID-Karte ist nicht in der Liste der Vertragskunden enthalten",
+  "Low funds": "Sie haben nicht genügend Guthaben auf Ihrem Kundenkonto, um diesen Kauf zu decken",
+  "Another id card": "Bitte versuchen Sie es mit einer anderen ID-Karte oder:",
+  "Close and try or": "Schließen Sie das Fenster und versuchen Sie es erneut oder:",
+  "Complete remove or add id": "Abschließen, weitere ID-Karten entfernen oder hinzufügen",
+  "No discounts for id": "Ihre ID-Karte berechtigt nicht zu einem Rabatt",
+  "Discount already used": "Ihr Ticket ist bereits registriert",
+  "Following ids": "Folgende ID-Karten werden zu Ihrer Buchung hinzugefügt:",
+  "Insert another id or press done": "Drücken Sie unten die Taste \"Fertig\" und geben Sie eine weitere ID-Karte ein",
+  "Try another id or press done": "Drücken Sie unten die Taste \"Fertig\" und geben Sie eine weitere ID-Karte ein",
+  "Pay with payment card instead": "{{tagUppercaseStart}} Kartenzahlung{{tagEnd}}"
+}

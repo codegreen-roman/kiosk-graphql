@@ -1,0 +1,6 @@
+{
+  "Warning": "Varning!",
+  "Reservation error": "{{tagStart}}Ett fel har uppstått under bokningsprocessen:{{tagEnd}}{{tagStart}}{{boldTagStart}}Bokningen finns inte registerad{{boldTagEnd}}{{tagStart}}Försök igen.{{tagEnd}}",
+  "Without driver": "{{tagStart}} Är du säker på att förare saknas till fordonet? {{tagEnd}}",
+  "Driver From Reserve": "{{tagStart}} Biljetten kan endast köpas för föraren av ett fordon som tillhör en juridisk person som är registrerad i öns kommun.{{tagEnd}}"
+}

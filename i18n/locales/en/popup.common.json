@@ -1,0 +1,11 @@
+{
+  "Follow instructions": "Follow terminal instructions",
+  "Waiting in reader": "Waiting for card in terminal",
+  "Reading": "Reading...",
+  "Success": "Read successfully",
+  "Error": "Reading error",
+  "Went wrong id": "Something went wrong during card reading. Please input your local resident personal code manually to get a discount.",
+  "Went wrong": "Something went wrong during card reading. Close the window and start all over again",
+  "Thank you": "Thank you!",
+  "This window will automatically close": "This window will automatically close in 2 seconds..."
+}

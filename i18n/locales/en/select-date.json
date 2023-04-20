@@ -1,0 +1,15 @@
+{
+  "Select sail title": "Please select date and time of departure",
+  "ETA minutes": "NB! The estimated duration of the trip is {{minutes}} min",
+  "ETA hours": "NB! The estimated duration of the trip is {{hours}} h",
+  "ETA hours and minutes": "NB! The estimated duration of the trip is {{hours}} h {{minutes}} min",
+  "Heavy trucks": "Heavy trucks are restricted on this sail",
+  "For locals": "( ) - AVAILABLE TICKETS FOR LOCAL PASSENGERS",
+  "Sail was cancelled": "This sail was cancelled",
+  "Dangerous goods": "This sail is shipping Dangerous Goods",
+  "Presale": "( ) - the number of local seats available for pre-sale",
+  "Sold out": "*PRE-BOOKABLE CAPACITY IS SOLD OUT.\nWHEN THE TIMER EXPIRES, ON THE REGULAR TRIPS IT WILL BE ADDED 50 PASSENGER TICKETS AND 30 LINE METERS OF THE DECK BEFORE THE DEPARTURE.",
+  "No more sails": "No more sails for today!",
+  "Choose date": "Choose a new available sail clicking on a specific date in the calendar.",
+  "Purchase next sail": "Click here for purchasing the tickets for next sail"
+}

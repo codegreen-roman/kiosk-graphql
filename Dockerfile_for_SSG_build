@@ -1,0 +1,20 @@
+FROM node:14 AS build
+LABEL maintainer="Roman Shestakov <neoroma@gmail.com>"
+
+COPY --chown=node:node . /var/www
+WORKDIR /var/www
+RUN yarn install --pure-lockfile --silent --ignore-optional --skip-integrity-check --no-progress --non-interactive
+RUN yarn build
+RUN yarn export
+
+FROM node:14-alpine
+
+RUN yarn global add serve
+USER node
+EXPOSE 5000
+
+WORKDIR /var/www
+COPY --chown=node:node --from=build /var/www/out ./out
+
+CMD [ "serve", "out" ]
+

@@ -1,0 +1,15 @@
+{
+  "Select sail title": "Bitte wählen Sie Datum und Uhrzeit der Abreise",
+  "ETA minutes": "NB! Die geschätzte Dauer der Fahrt beträgt {{minutes}} min",
+  "ETA hours": "NB! Die geschätzte Dauer der Fahrt beträgt {{hours}} h",
+  "ETA hours and minutes": "NB! Die geschätzte Dauer der Fahrt beträgt {{hours}} h {{minutes}} min",
+  "Heavy trucks": "Schwere Lkw sind auf dieser Fahrt verboten",
+  "For locals": "( ) - Verfügbare tickets für lokale passagiere",
+  "Sail was cancelled": "Diese Fahrt wurde abgesagt",
+  "Dangerous goods": "Auf dieser Fahrt werden;gefährliche Güter transportiert",
+  "Presale": "( ) - die Anzahl der für den Vorverkauf verfügbaren Plätze für Einheimische",
+  "Sold out": "*Tickets für den Vorverkauf sind ausverkauft. Tickets für reguläre Fahrten können vor der Abfahrt im Kiosk in Berechnung von 30 laufenden Metern für 50 Passagiere erworben werden. Die Tickets werden hinzugefügt, wenn der Timer auf Null geht.",
+  "No more sails": "Keine weiteren Reisen heute!",
+  "Choose date": "Finden Sie eine verfügbare Reise, indem Sie das Datum im Kalender ändern",
+  "Purchase next sail": "Klicken Sie hier, um die Tickets für die nächste Reise zu kaufen"
+}

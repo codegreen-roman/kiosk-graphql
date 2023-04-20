@@ -1,0 +1,4 @@
+query getDatesForRoundTrip($forwardLeg: String!, $backwardLeg: String!) {
+    firstLegDates: departureDates(routeLeg: $forwardLeg)
+    secondLegDates: departureDates(routeLeg: $backwardLeg)
+}

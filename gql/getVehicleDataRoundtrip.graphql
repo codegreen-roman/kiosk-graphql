@@ -1,0 +1,29 @@
+query getVehicleInfoRoundTrip($route: String!, $sailRefIds: [Int!]!, $isTrailer: Boolean!, $reservationId: ID, $vehicleData: VehicleDataInput ){
+    calculateVehiclePriceForRoundtrip(route: $route, sailRefIds: $sailRefIds, isTrailer: $isTrailer, reservationId: $reservationId, vehicleData: $vehicleData){
+
+            error {
+                errorMessage
+                exceptionClassName
+            }
+            inventoryClass
+            price {
+                coefficients
+                price
+                priceCategory
+                priceCategorySubType
+                priceCategoryTitle
+                priceFormatted
+                residentCompany
+            }
+            vehicleInfo {
+                category
+                heightInMm
+                lengthInMm
+                licensePlate
+                weightInKg
+                widthInMm
+            }
+            vehicleType
+        }
+
+}

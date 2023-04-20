@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SeatsAvailable when default props passed matches snapshot 1`] = `
+<SeatsAvailableStyles__Root>
+  <SeatsAvailableStyles__NumHolder>
+    <SeatsAvailableStyles__Num
+      level="high"
+    >
+      10
+    </SeatsAvailableStyles__Num>
+    <SeatsAvailableStyles__Local
+      level="high"
+    >
+      (
+      5
+      )
+    </SeatsAvailableStyles__Local>
+  </SeatsAvailableStyles__NumHolder>
+  <SeatsAvailableStyles__Scale
+    level="high"
+    ratio={0.5}
+  />
+</SeatsAvailableStyles__Root>
+`;

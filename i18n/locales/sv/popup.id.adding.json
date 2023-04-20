@@ -1,0 +1,15 @@
+{
+  "Multiple companies": "Vi fann flera företag kopplade till ditt ID-card. Välj vilket du vill betala med:",
+  "Busy man": "Flertalet företag",
+  "No id in list": "Ditt ID-card finns inte registrerat som avtalskund",
+  "Low funds": "Det finns inte tillräckligt med pengar på ditt ID-card för att genomföra köpet",
+  "Another id card": "Försök med ett annat ID-card:",
+  "Close and try or": "Stäng sidan och försök igen:",
+  "Complete remove or add id": "Transaktionen lyckades , ta bort eller lägg till fler ID-card",
+  "No discounts for id": "Ditt ID-card berättigar inte till rabatter",
+  "Discount already used": "Din biljett är redan registrerad på fartyget",
+  "Following ids": "Följande ID-card är kopplade till din bokning:",
+  "Insert another id or press done": "Press \"Klart\" knappen nedan och lägg till ett annat ID-card",
+  "Try another id or press done": "Press \"Klart\" knappen nedan och lägg till ett annat ID-card",
+  "Pay with payment card instead": "{{tagUppercaseStart}} Betala med bankkort {{tagEnd}}"
+}

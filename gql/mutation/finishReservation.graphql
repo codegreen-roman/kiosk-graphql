@@ -1,0 +1,17 @@
+mutation Finish($reservationId: ID!, $port: String!) {
+  finishReservation(reservationId: $reservationId, port: $port) {
+    reservationId
+    status
+    paymentInfo {
+      totalPrice {
+        amount
+        amountFormatted
+        amountWithoutTaxes
+        currency
+        formatPattern
+        tax
+        taxAmount
+      }
+    }
+  }
+}

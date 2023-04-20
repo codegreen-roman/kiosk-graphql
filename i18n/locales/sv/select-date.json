@@ -1,0 +1,15 @@
+{
+  "Select sail title": "När vill du resa",
+  "ETA minutes": "Den beräknade restiden är {{minutes}} minuter",
+  "ETA hours": "Den beräknade restiden är{{hours}} timmar",
+  "ETA hours and minutes": "Den beräknade restiden är {{hours}} timmar {{minutes}} minuter",
+  "Heavy trucks": "Tunga fordon är ej tillåtna på den avgång",
+  "For locals": "( ) - tillgängliga biljetter för lokala passagerare",
+  "Sail was cancelled": "Resan är inställd",
+  "Dangerous goods": "Fartyget medför farligt gods",
+  "Presale": "( ) - antalet tillgängliga bokningsbara platser",
+  "Sold out": "*ALLA FÖRBOKBARA BILJETTER ÄR SLUTSÅLDA.\nNÄR TIMERN RÄKNAT NER, BLIR 50 PASSAGERARBILJETTER OCH 30 METER FORDONSPLATS YTTERLIGARE TILLGÄNGLIGA",
+  "No more sails": "Inga fler avgångar i dag!",
+  "Choose date": "För att hitta en tillgänglig avgång, ändra datum i kalendern.",
+  "Purchase next sail": "Klicka här om du vill köpa biljetter till nästa avgång"
+}

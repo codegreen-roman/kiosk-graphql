@@ -1,0 +1,6 @@
+{
+  "Warning": "Внимание!",
+  "Reservation error": "{{tagStart}}При бронировании произошла ошибка:{{tagEnd}}{{tagStart}}{{boldTagStart}}Бронь не найдена{{boldTagEnd}}{{tagStart}}Начать оформление брони заново{{tagEnd}}",
+  "Without driver": "{{tagStart}} Вы уверены, что автомобиль путешествует без водителя? {{tagEnd}}",
+  "Driver From Reserve": "{{tagStart}} Билет возможно купить только водителю юридического транспортного средства, которое имеет регистрацию в волости острова. {{tagEnd}}"
+}
